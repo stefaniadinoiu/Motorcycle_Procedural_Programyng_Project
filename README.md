@@ -1,8 +1,5 @@
 # Motorcycle_Procedural_Programyng_Project
 
-Cerinte proiect :
-
-
 Project fictional story: 
 
 Compania americana Count's Kustoms, cunoscuta pentru gama larga de 
@@ -11,9 +8,9 @@ doreste sa isi ajute clientii, facand mult mai usoara gasirea
 motocicletei dorite, tinand cont de preferintele acestora privind
 anumite criterii.
 
-Proiectul ofera informatii la alegere despre motocicleta dorita.
+Proiectul ajuta la eficientizarea alegerii motocicletei dorite.
 
-Fiecare motocicleta este caracterizata de: 
+Fiecare motocicleta este caracterizata prin: 
 
 *categoria din care face parte (a, b sau c)
 *model/marca motocicletei
@@ -24,6 +21,7 @@ Fiecare motocicleta este caracterizata de:
 
 Pentru cei care cauta o motocicleta pentru anumite scopuri
 (mersul in oras sau off-road) exista urmatoarele caracteristici:
+
 * o motocicleta de oras se caracterizeaza prin:
 -consum
 -emisia de noxe
